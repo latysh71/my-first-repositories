@@ -1,1 +1,2 @@
-pprint("Привет мир!")
+name = input("Какое ваше имя?")
+print(name)
